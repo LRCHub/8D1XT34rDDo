@@ -1,0 +1,207 @@
+# Juice WRLD – KTM Drip
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Perc' me in, let me in
+How the fuck you hatin'
+outside the club?
+Drugs knockin' at my door,
+need to let me in
+Need to let me in
+You can't even get in
+Fuck, yeah
+Pills knockin' at my door,
+I'm finna let 'em in
+Ballin' hard, feel like D Rose,
+I need a Letterman
+Can't fuck that bitch
+if she don't give me her consent
+Half of these hoes
+don't even give me erection
+They don't get me hard
+If you with that shit,
+then up your gat,
+let it split, oh
+I know nigga bangin' they flags
+like Confederate, oh
+Slatt, slatt
+Brand new house,
+it's on the hills,
+just got the settlements off
+Rich, rich
+Lately I been riding dirt bikes,
+G Money told me,
+"Don't fall off"
+Yee-haw
+That two-door with no tints, oh
+She sucked me up in my G-Wagon,
+no tints, oh
+I see all through the shade,
+ain't no tints, oh
+Pull up in that Beamer
+with the tints, oh
+Skrrt
+I heard you got a new whip,
+we shoot the tints off
+Grrah, grrah
+I know that bitch
+shakin' ass up out the window
+I'm takin' Ws, and her wins low
+I order bitches like
+they on a menu, yeah
+Took that bitch to Miami
+just to have a threesome
+What?
+I got bad bitches on deck,
+do you need one?
+Matter of fact,
+I got so many hoes,
+I'll sell you one,
+you can keep one
+That bitch don't need me,
+that lil' ho need Jesus, aye
+VVS on my wrist,
+ain't get no Jesus pieces, aye
+Need me a chocolate thing,
+ain't talkin' Reese's Pieces,
+aye
+I don't fuck with none of
+these nigga like I'm racist, aye
+My songs on that bad bitch
+playlist
+Pills knockin' at my door,
+I'm finna let 'em in
+Ballin' hard, feel like D Rose,
+I need a Letterman
+Yee-haw
+I can't fuck that bitch
+if she don't give me her consent
+Yee-haw
+Half of these hoes
+don't even give me erection
+They don't get me hard
+If you with that shit,
+then up your gat,
+let it split, oh
+Grrah, grrah
+I know nigga bangin' they flags
+like Confederate, oh
+Slatt, slatt
+Brand new house,
+it's on the hills,
+just got the settlements off
+Rich, rich
+Lately I been riding dirt bikes,
+G Money told me,
+"Don't fall off"
+I been on my KTM drip,
+hopefully I don't fall off
+Skrrt
+In the desert on a dirt bike
+with an AR, lettin' it all off
+Grrah
+My lil' bitch'll set you up,
+yeah, she a dog
+She a dog
+Get you in the bedroom
+just to shoot your balls off
+Pause
+She come back home,
+tell me you dead,
+my dick is in her jaw
+I could never end up
+like my dad,
+I'm too much of a boss
+Oxycodone all up in my head,
+I'm scratchin' through the walls
+High as hell on my phone,
+groupies tryna get in my drawers
+Foreign bitch up in my Snapchat
+showin' ass
+What else?
+I know she don't love me
+for real, she just want the bag
+What the fuck else?
+She gon' do me and my team
+for a Louis bag
+What the fuck else?
+Grip the chopper with the beam,
+this in a Louis bag
+Baow, baow
+I go shoppin' everywhere,
+I don't look at tags
+Wear it once,
+then throw it away,
+I don't take it back
+Said she loved me, stupid bitch,
+you should take it back
+I'ma drop you off wherever
+the fuck I met you at
+Call a Uber for that bitch,
+she gotta go, go, go
+She gotta go
+Do the dash through her life,
+I'm on go, go, go, uh
+Bitch gotta go
+Iffy, uh, sticky tucked,
+I'm on gummo mode
+My closet like a motherfuckin'
+gun show, oh, uh
+I'ma spin her,
+shawty sweeter than
+a bag full of apple fritters
+Yee-haw
+I told her racist-ass dad
+that she fucked a nigga
+Yee-haw
+I also told him that it's been
+my pleasure fuckin' with her
+Yee-haw
+She said she wanna have my dick
+for dinner
+I'ma serve it to her
+like a plate of chicken gizzards
+Grandma, if you listenin',
+I'm sorry I'm a sinner
+God ain't done with me yet,
+give him a couple winters
+Uh, just became a winner
+They wasn't fuckin' me
+when my pockets was hurtin'
+Now I get to pick 'em out,
+freaky and nerdy
+You should take your girl
+to the dentist or somethin'
+'Cause when she come back
+to you,
+her mouth gon' be hurtin'
+Suck it, ouch
+Pills knockin' at my door,
+I'm finna let 'em in
+I'ma let 'em in
+Ballin' hard, feel like D Rose,
+I need a Letterman
+I need a Letterman
+I can't fuck that bitch
+if she don't give me her consent
+Give me her consent
+Half of these hoes
+don't even give me erection
+They don't get me hard
+If you with that shit,
+then up your gat,
+let it split, oh
+Baow, baow
+I know nigga bangin' they flags
+like Confederate, oh
+Slatt, slatt, slatt
+Brand new house,
+it's on the hills,
+just got the settlements off
+Rich, rich
+Lately I been riding dirt bikes,
+G Money told me,
+"Don't fall off"
+Yee-haw
+```
