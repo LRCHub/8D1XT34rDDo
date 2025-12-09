@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "KTM Drip",
+  "base_artist": "Juice WRLD",
+  "createdAt": "2025-12-09T10:39:29.366592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KTM Drip",
+      "artist": "lil obnoxious",
+      "has_synced": true,
+      "path": "select/01_KTM_Drip_lil_obnoxious.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KTM Drip",
+      "artist": "Flockkk",
+      "has_synced": false,
+      "path": "select/02_KTM_Drip_Flockkk.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KTM Drip",
+      "artist": "berouw",
+      "has_synced": false,
+      "path": "select/03_KTM_Drip_berouw.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KTM Drip",
+      "artist": "berouw - Topic",
+      "has_synced": false,
+      "path": "select/04_KTM_Drip_berouw_-_Topic.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KTM Drip",
+      "artist": "Juice WRLD",
+      "has_synced": false,
+      "path": "select/05_KTM_Drip_Juice_WRLD.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Juice WRLD - KTM Drip (Official Audio)",
+      "artist": "Juice WRLD",
+      "has_synced": false,
+      "path": "select/06_Juice_WRLD_-_KTM_Drip_(Official_Audio)_Juice_WRLD.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Juice WRLD - KTM Drip (Official Audio)",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/07_Juice_WRLD_-_KTM_Drip_(Official_Audio)_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "KTM Drip",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/08_KTM_Drip_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Juice WRLD - KTM Drip (Official Audio)",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/09_Juice_WRLD_-_KTM_Drip_(Official_Audio)_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "KTM Drip",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/10_KTM_Drip_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KTM Drip (Paused)",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/11_KTM_Drip_(Paused)_Juice_WRLD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KTM Drip",
+      "artist": "Juice WRLD",
+      "has_synced": false,
+      "path": "select/pl_01_KTM_Drip_Juice_WRLD.txt"
+    }
+  ]
+}
